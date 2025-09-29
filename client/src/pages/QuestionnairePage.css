@@ -1,0 +1,58 @@
+/*Questionnaire Page Stylesheet*/
+
+#survey_superdiv{
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    top: 0;
+    left: 0;
+    width: 70vw;
+    height: 100vh;
+    padding: 50px 50px;
+    z-index: 9999;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+div{
+    width:100%;
+    height:max-content;
+    border: 1px solid red;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: auto;
+    width:100%;
+}
+
+.face-cam{
+    width: 500px;
+    height: 300px;
+}
+
+.input-widgets{
+    width: 100%;
+    height: fit-content;
+}
+
+.left-aligned{
+    text-align: left;
+}
+
+.center-aligned{
+    text-align: center;
+}
+
+.heading{
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.subheading{
+    font-size: large;
+}
