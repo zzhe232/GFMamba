@@ -1,3 +1,5 @@
+# Group 7
+
 # 🎭 GFMamba: Multimodal Sentiment Analysis with Mamba-based Fusion
 
 A PyTorch-based implementation of **multimodal sentiment analysis**, using the **GFMamba** model that integrates **text**, **audio**, and **vision** features for tasks like CMU-MOSI and CMU-MOSEI.
